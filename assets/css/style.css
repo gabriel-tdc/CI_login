@@ -1,0 +1,15 @@
+.container-center{
+	margin: 0 auto;
+}
+.container{
+	margin-top: 1em;
+}
+.btn-group{
+    width: 100%;
+}
+.btn-group .btn{
+    width: 50%;
+}
+.signin{
+	text-align: center;
+}
